@@ -1,2 +1,3 @@
-def test():
-	print("test")
+Class test():
+	def testFunc():
+		print("this is a test func")
